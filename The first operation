@@ -1,0 +1,18 @@
+<html>
+     <head>
+           <title>我的第一次操作</title>
+     </head>
+     <body>
+           <img src="1.jpg" alt="这是一张图片"/>
+           <ul>
+               <li>第一项</li>
+               <li>第二项
+                   <ol>
+                       <li>第一项</li>
+                       <li>第二项</li>
+                   </ol>
+               </li>
+               <li>第三项</li>
+           </ul>
+      </body>
+</html>
